@@ -1,4 +1,5 @@
-create index .css file in public folder 
+step 1 create background folder move your 3d model folder 
+step 2 create index .css file in public folder 
 @font-face {
   font-family: 'SF Distant Galaxy';
   src: local('SF Distant Galaxy'), url(fonts/SF\ Distant\ Galaxy.ttf), format('ttf');
